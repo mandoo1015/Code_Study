@@ -1,4 +1,4 @@
-import calculator
+import calculator as calc
 
-print(calculator.add(3, 5))
-print(calculator.multiply(4, 6))
+print(calc.add(3, 5))
+print(calc.multiply(4, 6))
